@@ -6,7 +6,7 @@
     "email": "ksato7@hawaii.edu",
     "phone": "808-436-8853",
     "website": "https://kelly-sato.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I am currently studying to get a B.S. in Computer Science at U.H. Manoa. I expect to graduate in the Spring of 2025.",
     "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kelly-sato", "url": "http://github.com/kelly-sato" },
@@ -17,7 +17,7 @@
     { "name": "Cybersecurity" },
     { "name": "Software Engineering" },
     { "name": "Amateur Rocketry" },
-    { "name": "Digital Art" }
+    { "name": "AutoCAD" }
   ],
   "skills": [
     {
