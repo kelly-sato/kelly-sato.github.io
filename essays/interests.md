@@ -7,6 +7,7 @@ date: 2023-08-28
 published: true
 labels:
   - Software Engineering
+  - Personal Goals
 ---
 
 ## I was an ME major... for a semester
