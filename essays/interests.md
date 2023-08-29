@@ -12,9 +12,9 @@ labels:
 
 ## I was an ME major... for a semester
 
-When I entered middle school, I knew what I wanted to do with my life: I was going to be an engineer. I loved watching fabrication videos, learning about how things were made and how things worked... I still do! However, when I entered university for Mechanical Engineering---something I had waited my whole life to do---I knew it wasn't for me.
+When I entered middle school, I knew what I wanted to do with my life: I was going to be an engineer. I loved watching fabrication videos, learning about how things were made and how things worked... I still do! I even joined the Rocketry club in high school and served as President for two years, dreaming of one day becoming the next Homer Hickam and working for NASA. However, when I entered university for Mechanical Engineering---something I had waited my whole life to do---I knew it wasn't for me.
 
-Over the previous summer, I took Mark Rober's online class on the engineering design process. We were tasked to build one mechanical project, one electrical project, and one that combined the two. I really only enjoyed coding the Arduino for the electrical project. It was a bit of a rude awakening to the fact that if I became an engineer, _no_, I wouldn't be spending my time designing passion projects. After one semester, I switched my major to Computer Science with almost no other coding experience than some basic C++ on that Arduino project.
+Over the previous summer, I took Mark Rober's online class on the engineering design process. We were tasked to build one mechanical project, one electrical project, and one that combined the two. I really only enjoyed coding the Arduino for the electrical project. Additionally, after some personal events, I decided that I no longer wanted to move to the mainland, even to pursue a lifelong dream. It was a bit of a rude awakening to the fact that if I became an engineer, _no_, I wouldn't be working on something I'm passionate about. After one semester, I switched my major to Computer Science with almost no other coding experience than some basic C++ on that Arduino project.
 
 ## What I find interesting about Computer Science
 
