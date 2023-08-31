@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/image_2023-08-31_103447966.png
 title: "The American Rocketry Challenge"
 date: 2019
 published: true
