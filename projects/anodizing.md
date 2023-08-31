@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/anodized.png
 title: "Anodizing Aluminum"
 date: 2021
 published: true
