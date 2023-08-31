@@ -6,8 +6,8 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-green1: #FFCAD4;
-  --tf-green2: #4FA64F;
+  --tf-green1: #E27396;
+  --tf-green2: #FFCAD4;
   --tf-green3: #85C285;
   --tf-green4: #e0f2df;
   --bs-font-sans-serif: "Open Sans", sans-serif;
