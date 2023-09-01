@@ -8,8 +8,8 @@
 :root {
   --tf-green1: #E27396;
   --tf-green2: #FFCAD4;
-  --tf-green3: #85C285;
-  --tf-green4: #e0f2df;
+  --tf-green3: #FFCAD4;
+  --tf-green4: #FFCAD4;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-green1);
   --tf-pill-bg: var(--tf-green3);
