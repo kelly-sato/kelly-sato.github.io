@@ -6,29 +6,30 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-pink1: #E27396;
-  --tf-pink2: #FFCAD4;
-  --tf-green: #9DD494;
-  --tf-white: #FFF8E8
+  --tf-green1: #E27396;
+  --tf-green2: #FFCAD4;
+  --tf-green3: #CCE8CC;
+  --tf-green4: #FDE12D;
+  --bs-white: #FFF8E8
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-pink1);
-  --tf-pill-bg: var(--tf-green);
-  --tf-icon-fill: var(--tf-pink1);
-  --tf-icon-hover: var(--tf-pink2);
-  --tf-page-bg-color: var(--tf-green);
-  --tf-footer-bg-color: var(--tf-green);
-  --tf-projects-bg-color: var(--tf-white);
+  --bs-link-color: var(--tf-green1);
+  --tf-pill-bg: var(--tf-green3);
+  --tf-icon-fill: var(--tf-green1);
+  --tf-icon-hover: var(--tf-green2);
+  --tf-page-bg-color: var(--bs-white);
+  --tf-footer-bg-color: var(--tf-green4);
+  --tf-projects-bg-color: var(--tf-green3);
 }
 
 h1,h2,h3,h4,h5 {
   font-family: Rubik;
-  color: var(--tf-pink1);
+  color: var(--tf-green1);
 }
 
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-pink1);
+  fill: var(--tf-green1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -45,6 +46,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--tf-white);
+  background-color: var(--bs-white);
   border-top: none;
 }
