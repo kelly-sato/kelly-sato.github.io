@@ -12,13 +12,13 @@ labels:
 
 ## I was an ME major... for a semester
 
-When I entered middle school, I knew what I wanted to do with my life: I was going to be an engineer. I loved watching fabrication videos, learning about how things were made and how things worked... I still do! I even joined the Rocketry club in high school and served as President for two years, dreaming of one day becoming the next Homer Hickam and working for NASA. However, when I entered university for Mechanical Engineering---something I had waited my whole life to do---I knew it wasn't for me.
+When I entered middle school, I knew what I wanted to do with my life: I was going to be an engineer. I loved watching fabrication videos, learning about how things were made and how things worked... I still do! I even joined the Rocketry club in high school and served as President for two years, dreaming of one day becoming the next Homer Hickam and working for NASA. However, when I entered university for Mechanical Engineering---something I had waited my whole life to do---I felt lost.
 
-Over the previous summer, I took Mark Rober's online class on the engineering design process. We were tasked to build one mechanical project, one electrical project, and one that combined the two. I really only enjoyed coding the Arduino for the electrical project. Additionally, after some personal events, I decided that I no longer wanted to move to the mainland, even to pursue a lifelong dream. It was a bit of a rude awakening to the fact that if I became an engineer, _no_, I would never be an _aerospace_ engineer. I'd have to work on projects that I wasn't passionate about. After one semester, I switched my major to Computer Science with almost no other coding experience than some basic C++ on that Arduino project.
+Over the previous summer, I took Mark Rober's online class on the engineering design process. We were tasked to build one mechanical project, one electrical project, and one that combined the two. Maybe it's because I was disappointed in how my mechanical project turned out, but I really only enjoyed coding the Arduino for the electrical project. Additionally, after some personal events, I decided that I no longer wanted to move to the mainland, even to pursue a lifelong dream. I struggled with being alone, and knowing that engineers sometimes have to visit job sites, I wasn't confident that I'd make a good engineer. My life was shaken up, and part of me still feels lost. After one semester, I switched my major to Computer Science with almost no other coding experience than some basic C++ on that Arduino project.
 
 ## What I find interesting about Computer Science
 
-I switched to Computer Science because I have always been curious about how computers worked. I found a new passion in coding, seeing how you could accomplish so much with just a computer and some skill. Although my main interest is cybersecurity, I believe Software Engineering will be able to itch that scratch of pursuing passion projects.
+I switched to Computer Science because I have always been curious about how computers worked. Seeing how you could accomplish so much with just a computer and some skill inspired me, and it made me feel safe. Although career-wise, my main interest is Cybersecurity, I believe that Software Engineering will be where I am most fulfilled.
 
 ### My interests in Software Engineering
 
@@ -28,4 +28,4 @@ I also hope to improve my JavaScript skills. Over the summer, I tried (and faile
 
 Finally, I want to add more projects to my portfolio. Because I am relatively new to coding in comparison to many of my peers, I have pretty much zero coding projects, and the ones that I do have are as basic as basic gets. I'd like to change that this semester as my coding skills grow, and continue to create software well into the future, whether it be for my friends or for myself.
 
-Although I may have started out wanting to become a Mechanical Engineer, my biggest goal this semester is ultimately to become a Software Engineer, and to grow my understanding of what duties that entails.
+Although I may have started out wanting to become a Mechanical Engineer (heck, part of me still wants to become a Mechanical Engineer), my biggest goal this semester is ultimately to become a Software Engineer, and to grow my understanding of what duties that entails.
