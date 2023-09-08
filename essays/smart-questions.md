@@ -10,9 +10,9 @@ labels:
   - Stack Overflow
 ---
 
-This is a phrase I have heard many professors say to make students feel less embarrassed to ask questions in class, espcially in front of their peers. And yes, it's better to ask a question than not to, and in my college experience so far, I have had the fortune of hearing almost exclusively "smart" questions---in Computer Science, those are generally questions that provide relevant context of the problem, symptoms of the problem, and why that problem is stopping the asker from getting to their goal, among other things. That being said, I'd like to petition that the above phrase be changed to "the only stupid question is the one you should feel ashamed to have asked." However, I admit it's not nearly as inviting to people who are genuinely apprehensive to ask for help (like myself), and it's not exactly appropriate for a professor or even other students to publicly shame someone for asking a not-so-smart question.
+**"The only stupid question is the one you didn't ask."**
 
-Fortunately, we have the Internet to do that!
+This is a phrase I have heard many professors say to make students feel less embarrassed to ask questions in class, espcially in front of their peers. And yes, it's better to ask a question than not to, and in my college experience so far, I have had the fortune of hearing almost exclusively "smart" questions---in Computer Science, those are generally questions that provide relevant context of the problem, symptoms of the problem, and why that problem is stopping the asker from getting to their goal, among other things. That being said, the Internet is full of quite the opposite: instant-gratification-expectant not-so-smart questions.
 
 ## Downvote, downvote, downvote
 
