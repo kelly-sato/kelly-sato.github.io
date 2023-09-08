@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "There may be no stupid questions, but there are BAD ones"
+title: "There may be no stupid questions, but there certainly are BAD ones"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-07
 published: true
