@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "They say \"the only stupid question is the one you didn't ask\""
+title: "There may be no stupid questions, but there are BAD ones"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-07
 published: true
@@ -24,9 +24,9 @@ Sorry, Karim. Nobody's gonna do your homework for you. That sentiment has been w
 
 To be frank, Karim's original post is a mess that looks like it was copy-pasted off of his course's webpage, with no attempt to fix the messed up formatting at all. There was no effort put into readability. Honestly, I had to guess as to what the problem was asking because of how illegible it was. So, that would be thing #1 to improve.
 
-Assuming he has already attempted the homework, Karim should have mentioned what specific problem he is having with his code. He should include the relevant problem code (not his whole program) and explained the specific issues he was having with it so that other Stack Overflow users can more easily diagnose his problem. Additionally, he should have clearly stated what he has already searched online/tried. This is the bare minimum to establish that he's not one of the "lazy sponges" mentioned in Eric Raymond's [_How to ask questions the smart way_](http://www.catb.org/esr/faqs/smart-questions.html). 
+Assuming he has already attempted the homework, Karim should have mentioned what specific problem he is having with his code. He should include the relevant problem code (not his whole program) and explained the specific issues he was having with it so that other Stack Overflow users can more easily diagnose his problem. Additionally, he should have clearly stated what he has already searched online/tried.
 
-It might also help to clarify _why_ Karim included all of the tags that he did, since it seems to me that the program could be accomplished with only arrays---we could iterate through the initial array, run some sort of comparison that keeps track of matching numbers, and then return a counter which kept track of the amount of pairs that were created. It makes tags like "hashmaps" and "turing-machine" seem like they're supposed to be used in the answer, but we can't know for sure, because Karim copy-pasted his question without any further instructions or attempts at the question for people to _try_ to correct.
+Additionally, since it's not very clear, it might help to clarify _why_ Karim included all of the tags that he did, since it seems to me that the program could be accomplished with only arrays---we could iterate through the initial array, run some sort of comparison that keeps track of matching numbers, and then return a counter which kept track of the amount of pairs that were created. It makes tags like "hashmaps" and "turing-machine" seem like they're supposed to be used in the answer, but we can't know for sure, because Karim copy-pasted his question without any further instructions or attempts at the question for people to _try_ to correct.
 
 Unfortunately, this question has pretty much no redeeming qualities, and it'll be unlikely that Karim will get whatever answer he needed.
 
