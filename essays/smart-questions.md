@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "The only stupid question is the one you didn't ask"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-07
 published: true
@@ -9,8 +9,6 @@ labels:
   - Smart Questions
   - Stack Overflow
 ---
-
-## "The only stupid question is the one you didn't ask"
 
 This is a phrase I have heard many professors say to make students feel less embarrassed to ask questions in class, espcially in front of their peers. And yes, it's better to ask a question than not to, and in my college experience so far, I have had the fortune of hearing almost exclusively "smart" questions---in Computer Science, those are generally questions that provide relevant context of the problem, symptoms of the problem, and why that problem is stopping the asker from getting to their goal, among other things. That being said, I'd like to petition that the above phrase be changed to "the only stupid question is the one you should feel ashamed to have asked." However, I admit it's not nearly as inviting to people who are genuinely apprehensive to ask for help (like myself), and it's not exactly appropriate for a professor or even other students to publicly shame someone for asking a not-so-smart question.
 
@@ -50,7 +48,11 @@ It's no surpise that this post recieved 10 answers with a variety of potential s
 
 ### What made this question successful
 
+Everything in this question was straight to the point. Mernt clearly stated the issue, the goal, and what he had already tried and Googled with the results. The title of the post was specific and quaintly described the issue, "Get key with minimum value," and the question was specific and based on a limited amount of code---not a whole program. To top it off, Mernt was polite, ending the post with "Thank you."
 
+The replies reflected the clarity of the question: they were straight to the point and offered several potential solutions to the "Infinity" problem. One user suggested he use ```Object.entries()``` to help sort the entries by value in ascending order, another suggested iterating through the object, among other unique suggestions.
+
+This smart question helped Mernt create succesful code.
 
 ## Success begins with asking smart questions
 
@@ -60,6 +62,6 @@ Although, questions don't just require a large amount of details to be considere
 
 ### My outlook
 
-Personally, I have always tried to write "smart" questions, especially on the Internet in order to avoid the downvotes, though I'd mostly be asking questions on Reddit's r/calculus. Luckily, asking smart questions about math translates pretty well to code. This experience has exposed me to smart questions for programming which allowed me to reflect on my old questions on r/javahelp and determine what areas I need to work on. Since I am a lot less "literate" in code, I think my biggest struggle is cutting down my code to the most relevant portions since I have trouble deciding which code is pertinent to my issue. Another area I think I could work on is describing the symptoms of the issue rather than proposing the "educated guesses" I came up with and cluttering the post with solutions I've tried (not steps to diagnose---_full solutions that did not work_). 
+Personally, I have always tried to write "smart" questions, especially on the Internet in order to avoid the downvotes, though I'd mostly be asking questions on Reddit's r/calculus. Luckily, asking smart questions about math translates pretty well to code. This experience has exposed me to smart questions for programming which allowed me to reflect on my old questions on r/javahelp and determine what areas I need to work on. Since I am a lot less "literate" in code, I think my biggest struggle is cutting down my code to the most relevant portions since I have trouble deciding which code is pertinent to my issue. Another area I think I could work on is describing the symptoms of the issue rather than proposing the "educated guesses" I came up with and cluttering the post with solutions I've tried (not steps to diagnose---_long, convoluted, broken "solutions"_). 
 
 In the future, I will definitely be asking myself if that extra detail is important to finding a solution or just clutter. I hope to continue improving my questions to make them smarter, but I hope that I will be met with mercy on the inevitable, odd stupid ones, too.
