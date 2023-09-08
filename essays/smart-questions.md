@@ -18,7 +18,7 @@ Fortunately, we have the Internet to do that!
 
 Approximately 9 hours ago as of writing, [Karim Gaber proposed that we have a candy store, and a box of 2*n candies.](https://stackoverflow.com/questions/77061160/candy-store-problem-solving-coding-challenge) Flavors are represented by a numeric value and, given an array of different flavors, we must arrange the flavors into matching pairs, e.g. [5, 8, 5, 8, 8, 8] should be divided into three pairs, (5, 5), (8, 8), and (8, 8). Then, the program returns how many pairs there are. **How should this program be written?**
 
-Sorry, Karim. Nobody's gonna do your homework for you. That has been well-illustrated by the barren reply section.
+Sorry, Karim. Nobody's gonna do your homework for you. That sentiment has been well-illustrated by the barren reply section.
 
 ### How could the question have been improved
 
