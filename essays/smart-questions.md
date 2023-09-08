@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "They say "the only stupid question is the one you didn't ask""
+title: "They say \"the only stupid question is the one you didn't ask\""
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-07
 published: true
