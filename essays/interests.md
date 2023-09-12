@@ -18,7 +18,7 @@ Over the previous summer, I took Mark Rober's online class on the engineering de
 
 ## What I find interesting about Computer Science
 
-I switched to Computer Science because I have always been curious about how computers worked. Seeing how you could accomplish so much with just a computer and some skill inspired me, and it made me feel safe. Although career-wise, my main interest is Cybersecurity, I believe that Software Engineering will be where I am most fulfilled.
+I switched to Computer Science because I have always been curious about how computers worked. Seeing how you could accomplish so much with just a computer and some skill inspired me. In a way, Software Engineering feels familiar, exciting, and it piques my interest.
 
 ### My interests in Software Engineering
 
@@ -28,4 +28,4 @@ I also hope to improve my JavaScript skills. Over the summer, I tried (and faile
 
 Finally, I want to add more projects to my portfolio. Because I am relatively new to coding in comparison to many of my peers, I have pretty much zero coding projects, and the ones that I do have are as basic as basic gets. I'd like to change that this semester as my coding skills grow, and continue to create software well into the future, whether it be for my friends or for myself.
 
-Although I may have started out wanting to become a Mechanical Engineer (heck, part of me still wants to become a Mechanical Engineer), my biggest goal this semester is ultimately to become a Software Engineer, and to grow my understanding of what duties that entails.
+This semester, I will decide whether I will stay a Computer Science major or go back to Mechanical Engineering. Either way, I hope that understanding Software Engineering will help me in either field.
