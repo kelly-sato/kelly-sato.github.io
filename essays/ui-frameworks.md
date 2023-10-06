@@ -10,14 +10,13 @@ labels:
   - Bootstrap 5
 ---
 
+<div class="text-center">
+    <img width="350px" style="float: right" src="../img/screencapture-localhost-63342-browserhistory-index-html-2023-10-05-15_58_48.png" class="img-thumbnail"  alt="browser-history">
+</div>
+
 When I did the "Browser History" homework WODs, I was underwhelmed by the result. It was a lot of work for a _really_ ugly product. 
 
-<div class="text-center p-4">
-    <img width="500px" src="../img/screencapture-localhost-63342-browserhistory-index-html-2023-10-05-15_58_48.png" class="img-thumbnail"  alt="browser-history">
-</div>
-<p>
 Maybe it's the color combination and the blue hyperlinks, but it looks like an early 2000's website. It looks like it's trying to steal my personal information. It looks like my browser is going to _strongly_ advise me to leave this site. It scares me. But what scares me more is _how much work_ I put into it for it to come out looking like _that_. How was I ever going to make a beautiful UI if I was struggling to make an ugly one?
-</p>
 
 ## What makes UI Frameworks so useful?
 
