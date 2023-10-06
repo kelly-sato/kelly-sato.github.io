@@ -16,7 +16,7 @@ labels:
 
 <body>
 <div class="row d-flex justify-content-center align-items-center">
-<div class="col">
+<div class="col-md-7">
 <p>
 When I did the "Browser History" homework WODs, I was underwhelmed by the result. It was a lot of work for a <em>really</em> ugly product.
 </p>
@@ -25,15 +25,15 @@ Maybe it's the color combination and the blue hyperlinks, but it looks like an e
 me. But what scares me more is <em>how much work</em> I put into it for it to come out looking like <em>that</em>. How was I ever going to make a beautiful UI if I was struggling to make an ugly one?
 </p>
 </div>
-<div class="col">
+<div class="col-md-5">
 <div class="text-center">
     <img width="350px" src="../img/screencapture-localhost-63342-browserhistory-index-html-2023-10-05-15_58_48.png" class="img-thumbnail"  alt="browser-history">
 </div>
 </div>
 </div>
 
-<div class="row">
-<h1>What makes UI Frameworks so useful?</h1>
+<div class="row pt-2">
+<h2>What makes UI Frameworks so useful?</h2>
 
 <p>
 In ICS 314, the UI Framework we used is Bootstrap. Bootstrap has a grid system that allows us to create responsive rows and columns. For my purposes, it has been an absolute game changer, turning what would have been a 20 minute fight with CSS to
@@ -41,12 +41,12 @@ create columns into a trivial task. It has allowed me to create clean, modern-lo
 </p>
 </div>
 <div class="row d-flex justify-content-center align-items-center">
-<div class="col">
+<div class="col-md-5">
 <div class="p-4" style="margin-right: 10px">
     <img width="350" src="../img/ie-cropped.png" class="img-thumbnail"  alt="your-choice">
 </div>
 </div>
-<div class="col">
+<div class="col-md-7">
 <p>
 It's not just the grid system---it's the buttons, the navigation bar, the background images and the embedded video, too. Because Bootstrap is a collection of CSS classes, it makes building a visually appealing UI so much easier.
 </p>
@@ -58,8 +58,8 @@ Though these pre-made classes for stylized elements are great, I have to emphasi
 </p>
 </div>
 </div>
-<div class="row">
-<h1>Bootstrap makes life good</h1>
+<div class="row pt-2">
+<h2>Bootstrap makes life good</h2>
 
 <p>
 So good, in fact, that I used it to help me format this essay! Before writing this essay, I knew I wanted to include images that would relate to the text beside it. Especially since the images are taller than they are wide, I knew it would be a clunky read, so I immediately added Bootstrap's script tags and started arranging things to my liking. 
