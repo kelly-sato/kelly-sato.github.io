@@ -16,7 +16,7 @@ labels:
 
 <body>
 <div class="row d-flex justify-content-center align-items-center">
-<div class="col-md-7">
+<div class="col-md-6">
 <p>
 When I did the "Browser History" homework WODs, I was underwhelmed by the result. It was a lot of work for a <em>really</em> ugly product.
 </p>
@@ -32,7 +32,7 @@ me. But what scares me more is <em>how much work</em> I put into it for it to co
 </div>
 </div>
 
-<div class="row pt-2">
+<div class="row pt-4">
 <h2>What makes UI Frameworks so useful?</h2>
 
 <p>
