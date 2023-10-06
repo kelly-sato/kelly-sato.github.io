@@ -23,7 +23,7 @@ Maybe it's the color combination and the blue hyperlinks, but it looks like an e
 In ICS 314, the UI Framework we used is Bootstrap. Bootstrap has a grid system that allows us to create responsive rows and columns. For my purposes, it has been an absolute game changer, turning what would have been a 20 minute fight with CSS to create columns into a trivial task. It has allowed me to create clean, modern-looking UIs, such as this recreation of the <a href="https://independentenergyhawaii.com">Independent Energy</a> about page.
 
 <div class="p-4">
-    <img width="500px" src="../img/screencapture-localhost-63342-yourchoice-index-html-2023-10-03-21_28_47.png" class="img-thumbnail"  alt="browser-history">
+    <img width="500px" src="../img/ie-cropped" class="img-thumbnail"  alt="your-choice">
 </div>
 
 Bootstrap makes life good. Without it, creating a nice-looking _anything_ is nearly impossible. 
