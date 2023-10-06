@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "I hate CSS"
+title: "A better way: Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-05
 published: true
@@ -32,18 +32,18 @@ me. But what scares me more is <em>how much work</em> I put into it for it to co
 </div>
 </div>
 
-
-## What makes UI Frameworks so useful?
+<div class="row">
+<h1>What makes UI Frameworks so useful?</h1>
 
 <p>
 In ICS 314, the UI Framework we used is Bootstrap. Bootstrap has a grid system that allows us to create responsive rows and columns. For my purposes, it has been an absolute game changer, turning what would have been a 20 minute fight with CSS to
 create columns into a trivial task. It has allowed me to create clean, modern-looking UIs, such as this recreation of the <a href="https://independentenergyhawaii.com">Independent Energy</a> about page.
 </p>
-
+</div>
 <div class="row d-flex justify-content-center align-items-center">
 <div class="col">
 <div class="p-4" style="margin-right: 10px">
-    <img width="400" src="../img/ie-cropped.png" class="img-thumbnail"  alt="your-choice">
+    <img width="350" src="../img/ie-cropped.png" class="img-thumbnail"  alt="your-choice">
 </div>
 </div>
 <div class="col">
@@ -58,8 +58,8 @@ Though these pre-made classes for stylized elements are great, I have to emphasi
 </p>
 </div>
 </div>
-
-## Bootstrap makes life good
+<div class="row">
+<h1>Bootstrap makes life good</h1>
 
 <p>
 So good, in fact, that I used it to help me format this essay! Before writing this essay, I knew I wanted to include images that would relate to the text beside it. Especially since the images are taller than they are wide, I knew it would be a clunky read, so I immediately added Bootstrap's script tags and started arranging things to my liking. 
@@ -67,4 +67,5 @@ So good, in fact, that I used it to help me format this essay! Before writing th
 <p>
 And after all that, I can confidently say this is probably my most visually interesting essay, yet I didn't break a sweat thanks to Bootstrap!
 </p>
+</div>
 </body>
