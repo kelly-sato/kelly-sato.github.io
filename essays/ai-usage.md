@@ -11,47 +11,26 @@ labels:
 ## Table of Contents
 
 - [Introduction](#introduction)
-
 - [Personal Experiences with AI](#personal-experience-with-ai)
-
   - [Experience WODs](#experience-wods)
-
   - [In-class Practice WODs](#in-class-practice-wods)
-
   - [In-class WODs](#in-class-wods)
-
   - [Essays](#essays)
-
   - [Final Project](#final-project)
-
   - [Answering a question in class or in Discord](#answering-a-question-in-class-or-in-discord)
-
   - [Answering a smart-question](#asking-or-answering-a-smart-question)
-
   - [Coding example](#coding-example)
-
   - [Explaining code](#explaining-code)
-
   - [Writing code](#writing-code)
-
   - [Documenting code](#documenting-code)
-
   - [Quality assurance](#quality-assurance)
-
   - [Other uses](#other-uses)
-
   - [Experience WODs](#experience-wods)
-
 - [Impact on Learning and Understanding](#impact-on-learning-and-understanding)
-
 - [Practical Applications](#practical-applications)
-
 - [Challenges and Opportunities](#challenges-and-opportunities)
-
 - [Comparative Analysis](#comparative-analysis)
-
 - [Future Considerations](#future-considerations)
-
 - [Conclusions](#conclusions)
 
 ## Introduction
@@ -139,12 +118,28 @@ I don't know if there would be an impact on learning, but I believe that I was b
 
 ## Practical Applications
 
+I'd like to take a step back from the STEM field for a moment and focus on the impacts of AI in the arts. I am a digital artist, and AI has been a nightmare for the art community. AI art generators have been able to create nothing short of masterpieces in a matter of minutes or even seconds. There are some dead giveaways for AI images, such as hands with too many fingers, lack of logic, strange background, etc.
 
+The frustrating thing is that AI _can_ be used to help artists, but that isn't the main focus of development. For example, Clip Studio Paint by Celsys recently launched a 2.0 version of their drawing software that includes a feature called "Shading Assist" which looks over a drawing with flat colors and intelligently applies shading. This feature was well received by digital artists because it's not generating art, but helping artists to enhance their art and study shading. Additionally, many artists who use Clip Studio Paint are comic artists who have deadlines to meet. This tool helps speed up the process and aids them in completing their chapters in time.
+
+However, tools like these don't seem to be the focus of many developers. Many seem to only be focused on creating more and more sophisticated generators that become more and more believable. I can only hope that artists don't lose anymore jobs or opportunities to AI.
 
 ## Challenges and Opportunities
 
+Like I mentioned earlier, AI is smart, but not the smartest. It doesn't solve every problem, and many of the solutions that it provides are not the best solution and sometimes, not even a solution at all. My main reason for not using AI besides wanting to actually learn the material is that I don't trust it. Maybe I'm not good at generating prompts, but it's too much of a mixed bag for me.
+
+Also, permitting use of AI in an educational setting is a bit iffy to me. Some students might use it responsibly, using AI as a Q&A resource, but others might use it as an answer sheet. For now, AI might be acceptable because there's a lot of knowledge that you need to have to actually understand the code that is generated, but as AI becomes more sophisticated, this could pose an issue. 
+
 ## Comparative Analysis
+
+Using AI and Software Engineering are two completely different skills. That's not to say that they're mutually exclusive, but they are separate, distinct things. I can't and won't speak to how AI impacts learning this course since I didn't use it for the learning portion of this class. However, I do believe that trying to learn both how to use AI and Software Engineering simultaneously likely detracts from both learning experiences.
 
 ## Future Considerations
 
+I don't want to sound like a broken record, but I think to integrate AI into Software Engineering education, a) it should be taught as a different skill, and b) it should be used as a resource---not a replacement for coding. I don't know if it helps or hinders learning from personal experience as I did not use it for WODs.
+
 ## Conclusions
+
+AI is not yet sophisticated enough to be useful to beginner Software Engineers nor advanced Software Engineers. Whether or not it is a good thing in education is questionable, and its long term effects on our workforce are yet to be seen, whether that be helping people get accreditation without actually gaining skills or outright replacing workers. As a society, I think we need to start reevaluating our development of AI, and we need to seriously start asking, "Should this be made?" rather than, "Can this be made?"
+
+AI is already wrecking the art community, simulating human faces and voices, and though people try to limit its influence, it seems like it just keeps going. I'm all for freedom from government regulation, but once this technology begins to threaten peoples' livelihoods, we need to start limiting development before we end up in _The Matrix_ or _Terminator_ or some dystopian society where humans are almost totally obsolete. Hopefully, that stays in sci-fi.
