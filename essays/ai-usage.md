@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "pAIn"
+title: "Putting the AI in PAIN"
 date: 2023-11-21
 labels:
   - AI
@@ -10,49 +10,49 @@ labels:
 
 ## Table of Contents
 
-I. [Introduction](#introduction)
+- [Introduction](#introduction)
 
-II. [Personal Experiences with AI](#personal-experience-with-ai)
+- [Personal Experiences with AI](#personal-experience-with-ai)
 
-&nbsp;&nbsp;&nbsp;&nbsp;i. [Experience WODs](#experience-wods)
+  - [Experience WODs](#experience-wods)
 
-&nbsp;&nbsp;&nbsp;&nbsp;ii. [In-class Practice WODs](#in-class-practice-wods)
+  - [In-class Practice WODs](#in-class-practice-wods)
 
-&nbsp;&nbsp;&nbsp;&nbsp;iii. [In-class WODs](#in-class-wods)
+  - [In-class WODs](#in-class-wods)
 
-&nbsp;&nbsp;&nbsp;&nbsp;iv. [Essays](#essays)
+  - [Essays](#essays)
 
-&nbsp;&nbsp;&nbsp;&nbsp;v. [Final Project](#final-project)
+  - [Final Project](#final-project)
 
-&nbsp;&nbsp;&nbsp;&nbsp;vi. [Answering a question in class or in Discord](#answering-a-question-in-class-or-in-discord)
+  - [Answering a question in class or in Discord](#answering-a-question-in-class-or-in-discord)
 
-&nbsp;&nbsp;&nbsp;&nbsp;vii. [Answering a smart-question](#asking-or-answering-a-smart-question)
+  - [Answering a smart-question](#asking-or-answering-a-smart-question)
 
-&nbsp;&nbsp;&nbsp;&nbsp;viii. [Coding example](#coding-example)
+  - [Coding example](#coding-example)
 
-&nbsp;&nbsp;&nbsp;&nbsp;ix. [Explaining code](#explaining-code)
+  - [Explaining code](#explaining-code)
 
-&nbsp;&nbsp;&nbsp;&nbsp;x. [Writing code](#writing-code)
+  - [Writing code](#writing-code)
 
-&nbsp;&nbsp;&nbsp;&nbsp;xi. [Documenting code](#documenting-code)
+  - [Documenting code](#documenting-code)
 
-&nbsp;&nbsp;&nbsp;&nbsp;xii. [Quality assurance](#quality-assurance)
+  - [Quality assurance](#quality-assurance)
 
-&nbsp;&nbsp;&nbsp;&nbsp;xiii. [Other uses](#other-uses)
+  - [Other uses](#other-uses)
 
-&nbsp;&nbsp;&nbsp;&nbsp;xiv. [Experience WODs](#experience-wods)
+  - [Experience WODs](#experience-wods)
 
-III. [Impact on Learning and Understanding](#impact-on-learning-and-understanding)
+- [Impact on Learning and Understanding](#impact-on-learning-and-understanding)
 
-IV. [Practical Applications](#practical-applications)
+- [Practical Applications](#practical-applications)
 
-V. [Challenges and Opportunities](#challenges-and-opportunities)
+- [Challenges and Opportunities](#challenges-and-opportunities)
 
-VI. [Comparative Analysis](#comparative-analysis)
+- [Comparative Analysis](#comparative-analysis)
 
-VII. [Future Considerations](#future-considerations)
+- [Future Considerations](#future-considerations)
 
-VIII. [Conclusions](#conclusions)
+- [Conclusions](#conclusions)
 
 ## Introduction
 
@@ -81,25 +81,21 @@ I did not use AI for the in-class WODs because I thought using it would give a d
 
 ### Essays
 
-I have not used AI for writing essays. I've played around with ChatGPT's writing skills in the past, and it comes out sounding very unnatural. At most, I copy-paste what I've already written in to ChatGPT and ask for feedback so _I_ can make those changes, but I don't trust ChatGPT to produce a quality, natural-sounding essay.
+I have not used AI for writing essays. I've played around with ChatGPT's writing skills in the past, and it comes out sounding very unnatural. At most, I copy-paste what I've already written in to ChatGPT and ask for feedback so _I_ can make those changes, but I don't trust ChatGPT to produce a quality, natural-sounding essay. It'll turn a sentence like, "ChatGPT 's writing is not great, and everything they write sounds like it was passed through a thesaurus" to "ChatGPT's writing lacks finesse, and every piece they compose gives the impression of having been overly reliant on a thesaurus." 
+
+And, yes, I put that sentence through ChatGPT with the prompt, "Can you improve my sentence?" and got that "overly thesaurus-reliant piece".
 
 ### Final Project
 
-I have begun using ChatGPT for the final project because there's a lot to do, and we aren't given the answer on how to do all of the things we need like we were with the experiences and WODs. I can't afford to spend a ton of time researching with my course load, so asking ChatGPT for help was the most efficient way.
+I have begun using ChatGPT for the final project because there's a lot to do, and we aren't given the answer on how to do all of the things we need like we were with the experiences and WODs. I can't afford to spend a ton of time researching with my course load, so asking ChatGPT for help was the most efficient way. However, I feel like I've wasted more time arguing with ChatGPT than actually getting my code to work. 
 
-However, I feel like I've wasted more time arguing with ChatGPT than actually getting my code to work. 
-
-For the final project, my group and I are essentially creating a social networking site targeted towards prospective, current, and former study abroad students. I wanted to create animated text on the landing page that advertised some of the places you could study abroad with UH Manoa. 
-
-I had an array of Strings of all of the places:
+For the final project, my group and I are essentially creating a social networking site targeted towards prospective, current, and former study abroad students. I wanted to create animated text on the landing page that advertised some of the places you could study abroad with UH Manoa. I had an array of Strings of all of the places:
 
 `['Japan', 'Korea', ... , 'Australia']`
 
 and I had some code (that's long gone at this point) to animate the text fading in from above and then fading out down. However, I was having an issue with my animations in which it didn't totally look right.
 
-I provided ChatGPT my code and wrote a prompt something along the lines of, "Adjust my code so that the text appears in order and so that the next animation starts instantly." It gave me so many bad "fixes."
-
-One fix made the word fade in from above, change to the next word, and then fade out. Another fix somehow broke my entire animation... After about 30 minutes of struggling, and tens of questions thrown at it, ChatGPT finally gave me a good suggestion... Use an animation library. 
+I provided ChatGPT my code and wrote a prompt something along the lines of, "Adjust my code so that the text appears in order and so that the next animation starts instantly." It gave me so many bad "fixes." One fix made the word fade in from above, change to the next word, and then fade out. Another fix somehow broke my entire animation... After about 30 minutes of struggling, and tens of questions thrown at it, ChatGPT finally gave me a good suggestion... Use an animation library. 
 
 To be fair, it fixed my animation issues, but at that point I was done asking ChatGPT questions about anything else. I find myself only using it when I need a starting point for _actual_ research.
 
@@ -127,17 +123,23 @@ But to give credit where credit's due, it was just some small fixes to make it w
 
 ### Documenting code
 
-
+Although I did just say that ChatGPT is good at breaking down code justa bit earlier, that still doesn't change the fact that it's a horrible writer. I wouldn't ever use ChatGPT to write documentation for my code, especially when I already know what the code does.
 
 ### Quality assurance
 
+The furthest I've gotten with this is asking ChatGPT was a certain error means, especially in the browser console. It explains what the error means and gives a list of solutions (which I don't use because they don't usually work). I don't tend to run into many ESLint issues, so I never had the need to ask ChatGPT for a solution.
+
 ### Other uses
 
-### 
+At the beginning of the semester, my table mates and I used ChatGPT to come up with team names and we ended up with "BitMaster" as the best pick. Take that as you will.
 
 ## Impact on Learning and Understanding
 
+I don't know if there would be an impact on learning, but I believe that I was benefited by not using it. However, in order to use AI to write/fix code, at the stage it's currently at, you would still need to understand a good amount of code for AI use to be meaningful (and effective). It also depends on _how_ a person uses it. If someone just copy-pasted whatever ChatGPT spat at them, then there would be no comprehension or understanding (or working code). If someone actually read ChatGPT's explanations, and it does give a lot, then I can see it being used as a learning tool.
+
 ## Practical Applications
+
+
 
 ## Challenges and Opportunities
 
