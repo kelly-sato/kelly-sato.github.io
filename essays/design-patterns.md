@@ -9,6 +9,8 @@ labels:
   - Final Project
 ---
 
+If I've learned anything this semester in ICS 314, it's that if there's an easy way to do something, just do that. I don't know if that was the intention, but it's what I took away. Perhaps design patterns are just an extension of the philosophy of taking the easy route---if there's an existing solution, just use it. After all, progressing the human race = making life easier!
+
 ## Just like IBP
 
 Design patterns in software engineering are general reusable solutions to common problems that arise during software development. They aren't templates or finished designs, but instead, they provide general guidelines for solving specific design problems. Essentially, they are repeatable solution. 
@@ -27,7 +29,7 @@ Additionally, we might also be using the **Factory Method** for uploading images
 
 ## Design patterns in... my own code...?
 
- I haven't ever _purposefully_ implemented design patterns into my own code. I'm actually quite prone to doing the opposite: as they say, if it ain't broke, don't fix it, so if my code works, even if it looks really wonky, I just leave it. Yes... it seems my favorite design pattern is actually the **Anti Pattern**.
+ I haven't ever _purposefully_ implemented design patterns into my own code. I'm actually quite prone to doing the opposite: as they say, if it ain't broke, don't fix it, so if my code works, even if it looks really wonky, I just leave it. Yes... it seems my favorite "design pattern" is actually the **Anti Pattern**.
  
 Besides that, throughout my whole (short) coding career, I think I have unintentionally used design patterns. For example, the **Command** pattern. When I "made" (copied off the Internet and modified) my first C++ code for an Arduino, that sent some simple commands from a joystick to a motor:
 - push joystick right: turn clockwise at _x_ revs/s
@@ -36,4 +38,6 @@ Besides that, throughout my whole (short) coding career, I think I have unintent
 
 There were different classes for each function and the Joystick Controller was a class on its own. This design pattern would have allowed me to go back and add more functions without messing with the Joystick function.
 
-Additionally, 
+## Conclusion
+
+Design patterns emphasize the value of simplicity. Whether it be a math function or a method or a pattern for creating a component in software, reusability solidifies itself as king.
