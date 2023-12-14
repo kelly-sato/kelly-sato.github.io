@@ -7,34 +7,34 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-cream: #f3efea;
-  --tf-palegreen: #d6dbcb;
-  --tf-matcha: #6a806b;
+  --bs-white: #f3efea;
+  --bs-teal: #d6dbcb;
+  --bs-green: #6a806b;
   --tf-green4: #FAE5DE;
   --bs-font-sans-serif: 'Noto Sans', sans-serif;
-  --bs-link-color: var(--tf-cream);
+  --bs-link-color: var(--bs-white);
   --tf-pill-bg: var(--tf-green4);
-  --tf-icon-fill: var(--tf-cream);
+  --tf-icon-fill: var(--bs-white);
   --tf-icon-hover: var(--tf-green4);
-  --tf-page-bg-color: var(--tf-matcha);
+  --tf-page-bg-color: var(--bs-green);
   --tf-footer-bg-color: var(--tf-green4);
-  --tf-projects-bg-color: var(--tf-palegreen);
+  --tf-projects-bg-color: var(--bs-teal);
 }
 
 h1{
   font-family: 'Crimson Text', serif;
-  color: var(--tf-cream);
+  color: var(--bs-white);
 }
 
 h2,h3,h4,h5{
   font-family: 'Noto Sans', sans-serif;
-  color: var(--tf-cream)
+  color: var(--bs-white)
 }
 
   /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-cream);
+  fill: var(--bs-white);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
