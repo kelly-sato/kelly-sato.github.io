@@ -10,7 +10,7 @@
   --bs-white: #f3efea;
   --bs-teal: #c8d0ba;
   --bs-green: #6a806b;
-  --bs-indigo: #597c73;
+  --bs-indigo: #3c597a;
   --bs-cyan: #9bafa1;
   --bs-font-sans-serif: 'Noto Sans', sans-serif;
   --bs-link-color: var(--bs-white);
@@ -53,7 +53,7 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-white) !important;
+  background-color: white !important;
   border-top: none;
 }
 
