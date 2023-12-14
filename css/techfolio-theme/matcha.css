@@ -22,12 +22,12 @@
   --tf-projects-bg-color: var(--bs-teal);
 }
 
-h1 {
+h1, h2 {
   font-family: 'Crimson Text', serif;
   color: black;
 }
 
-h2, h3, h4, h5 {
+h3, h4, h5 {
   font-family: 'Noto Sans', sans-serif;
   font-weight: bold;
   color: black;
