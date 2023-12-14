@@ -15,7 +15,6 @@
   --bs-cyan: #9bafa1;
   --bs-font-sans-serif: 'Noto Sans', sans-serif;
   --bs-link-color: var(--bs-white);
-  --bs-body-bg: #c8d0bacf;
   --tf-pill-bg: var(--bs-cyan);
   --tf-icon-fill: var(--bs-white);
   --tf-icon-hover: var(--bs-indigo);
@@ -25,7 +24,7 @@
 }
 
 body {
-  background: var(--bs-body-bg) !important;
+  background: rgba(200, 208, 186, 0.65);
 }
 
 h1 {
