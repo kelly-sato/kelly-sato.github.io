@@ -2,11 +2,11 @@
 layout: essay
 type: essay
 title: "A Better Way: Bootstrap"
-# All dates must be YYYY-MM-DD format!
 date: 2023-10-05
 published: true
 labels:
   - UI Frameworks
+  - Web Design
   - Bootstrap 5
 ---
 
@@ -17,7 +17,7 @@ labels:
 <body>
 <div class="container">
 <div class="row d-flex justify-content-center align-items-center">
-<div class="col-md-6">
+<div class="col-md-8">
 <h2>Raw HTML and CSS</h2>
 <p>
 When I worked with HTML and CSS for the first time in ICS 314, I was underwhelmed by the result. It was a lot of work for a <em>really</em> ugly product.
@@ -26,7 +26,7 @@ When I worked with HTML and CSS for the first time in ICS 314, I was underwhelme
 Maybe it's the color combination and the blue hyperlinks, but it looks like an early 2000's website that can and will steal my personal information at the first chance it gets. What scares me more than that is <em>how much work</em> I put into it for it to come out looking like <em>that</em>. I asked myself, how was I ever going to make a beautiful UI if I was struggling to make an ugly one?
 </p>
 </div>
-<div class="col-md-5">
+<div class="col-md-4">
 <div class="text-center">
     <img width="350px" src="../img/screencapture-localhost-63342-browserhistory-index-html-2023-10-05-15_58_48.png" class="img-thumbnail"  alt="browser-history">
 </div>
@@ -37,13 +37,13 @@ Maybe it's the color combination and the blue hyperlinks, but it looks like an e
 <h2>What makes UI Frameworks so useful?</h2>
 
 <p>
-In ICS 314, the UI Framework we used is Bootstrap. Bootstrap has a grid system that allows us to create responsive rows and columns. For my purposes, it has been an absolute game changer, turning what would have been a 20 minute fight with CSS to create columns into a trivial task. It has allowed me to create clean, modern-looking UIs, such as this recreation of the <a href="https://independentenergyhawaii.com">Independent Energy</a> about page.
+In ICS 314, the UI Framework we used is Bootstrap. Bootstrap has a grid system that allows us to create responsive rows and columns. For my purposes, it has been an absolute game changer, turning what would have been a 20 minute fight with CSS to create columns into a trivial task. It has allowed me to create clean, modern-looking UIs, such as this recreation of <a href="https://independentenergyhawaii.com">Independent Energy</a>'s old About page!
 </p>
 </div>
 <div class="row d-flex justify-content-center align-items-center">
 <div class="col-md-5">
 <div class="p-4" style="margin-right: 10px">
-    <img width="350" src="../img/ie-cropped.png" class="img-thumbnail"  alt="your-choice">
+    <img width="350px" src="../img/ie-cropped.png" class="img-thumbnail"  alt="your-choice">
 </div>
 </div>
 <div class="col-md-7">
