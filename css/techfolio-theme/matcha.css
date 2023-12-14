@@ -25,7 +25,7 @@
 }
 
 body {
-  background: var(--bs-green);
+  background: var(--bs-body-bg);
 }
 
 h1 {
