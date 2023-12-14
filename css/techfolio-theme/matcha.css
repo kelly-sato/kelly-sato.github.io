@@ -16,9 +16,9 @@
   --tf-pill-bg: var(--tf-green3);
   --tf-icon-fill: var(--tf-pink1);
   --tf-icon-hover: var(--tf-green4);
-  --tf-page-bg-color: #6a806b;
+  --tf-page-bg-color: #6a806b !important;
   --tf-footer-bg-color: var(--tf-green4);
-  --tf-projects-bg-color: #d6dbcb;
+  --tf-projects-bg-color: #d6dbcb !important;
 }
 
 h1,h2,h3,h4,h5 {
