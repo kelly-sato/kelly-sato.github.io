@@ -15,13 +15,13 @@
   --tf-pill-bg: var(--tf-green3);
   --tf-icon-fill: var(--tf-pink1);
   --tf-icon-hover: var(--tf-green4);
-  --tf-page-bg-color: var(--bs-white);
+  --tf-page-bg-color: white;
   --tf-footer-bg-color: var(--tf-green4);
   --tf-projects-bg-color: var(--tf-green4);
 }
 
 h1,h2,h3,h4,h5 {
-  font-family: Rubik;
+  font-family: Rubik sans-serif;
   color: var(--tf-pink1);
 }
 
@@ -45,6 +45,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-white);
+  background-color: white;
   border-top: none;
 }

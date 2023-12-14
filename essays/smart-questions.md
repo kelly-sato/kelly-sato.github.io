@@ -12,7 +12,7 @@ labels:
 
 **"The only stupid question is the one you didn't ask."**
 
-This is a phrase I have heard many professors say to make students feel less embarrassed to ask questions in class, espcially in front of their peers. And yes, it's better to ask a question than not to, and in my college experience so far, I have had the fortune of hearing almost exclusively "smart" questions---in Computer Science, those are generally questions that provide relevant context of the problem, symptoms of the problem, and why that problem is stopping the asker from getting to their goal, among other things. That being said, the Internet is full of quite the opposite: instant-gratification-expectant not-so-smart questions.
+This is a phrase I have heard many professors say to make students feel less embarrassed to ask questions in class, especially in front of their peers. And yes, it's better to ask a question than not to, and in my college experience so far, I have had the fortune of hearing almost exclusively "smart" questions---in Computer Science, those are generally questions that provide relevant context of the problem, symptoms of the problem, and why that problem is stopping the asker from getting to their goal, among other things. That being said, the Internet is full of quite the opposite: instant-gratification-expectant not-so-smart questions.
 
 ## Downvote, downvote, downvote
 
