@@ -17,7 +17,7 @@
   --tf-icon-fill: var(--bs-white);
   --tf-icon-hover: var(--tf-green4);
   --tf-page-bg-color: var(--bs-green);
-  --tf-footer-bg-color: var(--bs-green);
+  --tf-footer-bg-color: var(--bs-white);
   --tf-projects-bg-color: var(--bs-teal);
 }
 
@@ -55,3 +55,4 @@ a {
   background-color: var(--tf-page-bg-color);
   border-top: none;
 }
+
