@@ -13,7 +13,6 @@
   --bs-indigo: #363f3b;
   --bs-cyan: #9bafa1;
   --bs-font-sans-serif: 'Noto Sans', sans-serif;
-  --bs-link-color: var(--bs-white);
   --tf-pill-bg: var(--bs-cyan);
   --tf-icon-fill: var(--bs-white);
   --tf-icon-hover: var(--bs-indigo);
@@ -49,7 +48,7 @@ h3, h4, h5 {
 
 a {
   text-decoration: none;
-  color: var(--bs-link-color);
+  color: var(--bs-green);
 }
 
 /* Simplify the styling of the bottom of Essay cards. */
