@@ -23,6 +23,10 @@
   --tf-projects-bg-color: var(--bs-teal);
 }
 
+body {
+  background: var(--bs-green);
+}
+
 h1 {
   font-family: 'Crimson Text', serif;
   color: black;
