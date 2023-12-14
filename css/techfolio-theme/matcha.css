@@ -53,7 +53,7 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: white !important;
+  background-color: white;
   border-top: none;
 }
 
@@ -71,4 +71,9 @@ a {
   --bs-btn-disabled-color: var(--bs-indigo);
   --bs-btn-disabled-bg: transparent;
   --bs-gradient: none
+}
+
+p.lead {
+  font-weight: 500;
+  color: var(--bs-white);
 }
