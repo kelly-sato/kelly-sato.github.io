@@ -8,17 +8,17 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-cream: #f3efea;
-  --tf-green2: #4FA64F;
-  --tf-green3: #AFC997;
+  --tf-palegreen: #d6dbcb;
+  --tf-matcha: #6a806b;
   --tf-green4: #FAE5DE;
   --bs-font-sans-serif: 'Noto Sans', sans-serif;
   --bs-link-color: var(--tf-cream);
-  --tf-pill-bg: var(--tf-green3);
+  --tf-pill-bg: var(--tf-green4);
   --tf-icon-fill: var(--tf-cream);
   --tf-icon-hover: var(--tf-green4);
-  --tf-page-bg-color: #6a806b !important;
+  --tf-page-bg-color: var(--tf-matcha);
   --tf-footer-bg-color: var(--tf-green4);
-  --tf-projects-bg-color: #d6dbcb !important;
+  --tf-projects-bg-color: var(--tf-palegreen);
 }
 
 h1{
