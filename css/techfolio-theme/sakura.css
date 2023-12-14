@@ -2,8 +2,8 @@
 
 /* Use Open Sans as the default font and Roboto for headers. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
-@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700");
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
@@ -16,13 +16,13 @@
   --tf-pill-bg: var(--tf-green3);
   --tf-icon-fill: var(--tf-pink1);
   --tf-icon-hover: var(--tf-green4);
-  --tf-page-bg-color: white;
+  --tf-page-bg-color: #6a806b;
   --tf-footer-bg-color: var(--tf-green4);
-  --tf-projects-bg-color: var(--tf-green4);
+  --tf-projects-bg-color: #d6dbcb;
 }
 
 h1,h2,h3,h4,h5 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Crimson Text', serif;
   color: var(--tf-pink1);
 }
 
@@ -46,6 +46,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: white;
+  background-color: var(--tf-page-bg-color);
   border-top: none;
 }
