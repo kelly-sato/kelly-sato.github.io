@@ -10,12 +10,12 @@
   --bs-white: #f3efea;
   --bs-teal: #c8d0ba;
   --bs-green: #6a806b;
-  --tf-green4: #95b096;
+  --bs-cyan: #9bafa1;
   --bs-font-sans-serif: 'Noto Sans', sans-serif;
   --bs-link-color: var(--bs-white);
-  --tf-pill-bg: var(--tf-green4);
+  --tf-pill-bg: var(--bs-cyan);
   --tf-icon-fill: var(--bs-white);
-  --tf-icon-hover: var(--tf-green4);
+  --tf-icon-hover: var(--bs-cyan);
   --tf-page-bg-color: var(--bs-green);
   --tf-footer-bg-color: var(--bs-white);
   --tf-projects-bg-color: var(--bs-teal);
