@@ -52,7 +52,7 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--tf-page-bg-color);
+  background-color: var(--bs-white);
   border-top: none;
 }
 
