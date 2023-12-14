@@ -23,13 +23,13 @@
 
 h1 {
   font-family: 'Crimson Text', serif;
-  color: var(--bs-white);
+  color: black;
 }
 
 h2, h3, h4, h5 {
   font-family: 'Noto Sans', sans-serif;
   font-weight: bold;
-  color: var(--bs-white)
+  color: black;
 }
 
   /* Format social media icons */
