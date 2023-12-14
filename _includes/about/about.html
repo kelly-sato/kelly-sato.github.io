@@ -9,7 +9,7 @@
         <p style="color: var(--bs-white); font-weight: 500" class="lead text-center">{{ site.data.bio.basics.label }}</p>
         <p style="color: var(--bs-white); font-weight: 500" class="lead text-center">{{ site.data.bio.basics.summary }}</p>
         <hr style="color: var(--bs-white)" class="my-4">
-        <p style="color: var(--bs-white); font-weight: 500" class="lead m-0">
+        <p style="color: var(--bs-white); font-weight: 500" class="lead text-center m-0">
           Interests:
           {% for interest in site.data.bio.interests %}
           {{ interest.name }}{% if forloop.last != true %}, {% endif %}
