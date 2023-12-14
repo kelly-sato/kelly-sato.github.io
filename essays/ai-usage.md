@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: "Putting the AI in PAIN"
 date: 2023-11-21
+published: false
 labels:
   - AI
   - ChatGPT
