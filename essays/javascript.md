@@ -44,7 +44,7 @@ After <a href="https://www.pcmag.com/news/youtube-takes-down-another-popular-dis
 <p>
 So, I began to code, and I picked up the basics of JavaScript quickly. But not really. I've never developed any sort of software before, much less worked in JavaScript. JavaScript itself felt so familiar, yet <em>so foreign</em> all at once. I quickly got over the fact that JavaScript wasn't typed—in fact, I loved it and it made me more confident that I'd be able to get this done in time! 
 </p>
-<div class="row d-flex justify-content-center align-items-center">
+<div class="row d-flex justify-content-center align-items-center pb-2">
 <div class="col-md-4">
 <img src="../img/pingpong.png" class="img-thumbnail" alt="plague doctor costumes" width="300px"/>
 </div>
