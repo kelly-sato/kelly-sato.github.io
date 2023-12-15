@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "How I tried (and failed) to make a Discord bot in a week"
+title: "How I Tried (And Failed) to Make a Discord Bot in a Week"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-28
 published: true
