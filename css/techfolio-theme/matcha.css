@@ -48,11 +48,11 @@ h1, h2, h3 {
 
 p a {
   text-decoration: none;
-  color: #3b463c;
+  color: #728046;
 }
 
 p a:hover {
-  color: #6a806b;
+  color: #afbe6b;
 }
 
 /* Simplify the styling of the bottom of Essay cards. */
