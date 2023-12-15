@@ -39,7 +39,7 @@ Sorry, Karim. Nobody's gonna do your homework for you. That sentiment has been w
 
 <p>UPDATE: As of December 14, 2023, Karim has done the delete-post of shame as you can see by following the <a href="https://stackoverflow.com/questions/77061160/candy-store-problem-solving-coding-challenge">original question's link.</a> Hopefully, over the past 4 months, he's learned to ask better questions based off of the critique I've offered!</p>
 </div>
-<div class="col">
+<div class="col-md-5">
 <img class="img-thumbnail" width="400px" src="../img/KarimQuestion.png" alt="karim's deleted question"/>
 </div>
 </div>
@@ -62,7 +62,7 @@ Remember—you're asking for help! It's no one's job or obligation to answer que
 <div>
 <h1>Upvote, upvote, upvote!</h1>
 <div class="row d-flex justify-content-center align-items-center">
-<div class="col">
+<div class="col-md-5">
 <img class="img-thumbnail" width="400px" src="../img/MerntQuestion.png" alt="MerntQuestion"/>
 </div>
 <div class="col-md-7">
