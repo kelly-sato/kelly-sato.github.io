@@ -16,9 +16,9 @@ labels:
 
 <body>
 <div class="container">
-<h1>Ask and you shall receive</h1>
 <div class="row d-flex justify-content-center align-items-center">
 <div class="col-md-7">
+<h1>Ask and you shall receive</h1>
 <p>
 Ever since I was little, I was a very crafty person—I would make my own Halloween costumes, knit my own beanies, crochet leis, and more. One of my best creations were these plague doctor masks that my brother and I wore for Halloween! So, of course, my family and friends would ask me to make them things, and I would usually do it. For me, I am most in my element working with my hands or on physical things, so learning to code was challenging, but I did it! I was successful with the majority of the ICS 111 and 211 homeworks, and I even got A's in both classes! 
 </p>
