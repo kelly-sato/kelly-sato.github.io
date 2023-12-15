@@ -14,6 +14,7 @@ labels:
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
 
+<body>
 <div class="container">
 <h1>"The only stupid question is the one you didn't ask."</h1>
 <p>
@@ -114,3 +115,4 @@ Personally, I have always tried to write "smart" questions, especially on the In
 In the future, I will definitely be asking myself if that extra detail is important to finding a solution or just clutter. I hope to continue improving my questions to make them smarter, but I hope that I will be met with mercy on the inevitable, odd stupid ones, too.
 </p>
 </div>
+</body>
