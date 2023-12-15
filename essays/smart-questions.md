@@ -30,7 +30,6 @@ That being said, the Internet is full of quite the opposite: instant-gratificati
 <p>
 Approximately 9 hours ago as of writing, Karim Gaber on <a href="https://stackoverflow.com">Stack Overflow</a> proposed that we have a candy store, and a box of 2*n candies. Flavors are represented by a numeric value and, given an array of different flavors, we must arrange the flavors into matching pairs, e.g. [5, 8, 5, 8, 8, 8] should be divided into three pairs, (5, 5), (8, 8), and (8, 8). Then, the program returns how many pairs there are. 
 </p>
-
 <p style="font-weight: bold">
 How should this program be written?
 </p>
@@ -63,10 +62,10 @@ Remember—you're asking for help! It's no one's job or obligation to answer que
 <div>
 <h1>Upvote, upvote, upvote!</h1>
 <div class="row d-flex justify-content-center align-items-center">
-<div class="col">
+<div class="col-md-3">
 <img class="img-thumbnail" width="400px" src="../img/MerntQuestion.png" alt="MerntQuestion"/>
 </div>
-<div class="col">
+<div class="col-md-7">
 <p>
 On a post from 4 years ago, <a href="https://stackoverflow.com/questions/55332453/get-key-with-minimum-value"> Mernt presented with an object with five key-value pairs, in which the values were integers of varying value.</a> He wanted to be able to return the key-value pair with the smallest numerical value. He included code for his personal attempt 
 <code>alert(Math.min.apply(Math, arr));</code>
