@@ -77,6 +77,6 @@ p a:hover {
   --bs-gradient: none
 }
 
-.rounded-circle {
-  border: var(--bs-white) solid 3px;
+.border-white {
+  border: var(--bs-white);
 }
