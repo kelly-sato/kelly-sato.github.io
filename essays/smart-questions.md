@@ -62,7 +62,7 @@ Remember—you're asking for help! It's no one's job or obligation to answer que
 <div>
 <h1>Upvote, upvote, upvote!</h1>
 <div class="row d-flex justify-content-center align-items-center">
-<div class="col-md-3">
+<div class="col">
 <img class="img-thumbnail" width="400px" src="../img/MerntQuestion.png" alt="MerntQuestion"/>
 </div>
 <div class="col-md-7">
