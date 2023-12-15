@@ -41,7 +41,7 @@ Sorry, Karim. Nobody's gonna do your homework for you. That sentiment has been w
 <p>UPDATE: As of December 14, 2023, Karim has done the delete-post of shame as you can see by following the <a href="https://stackoverflow.com/questions/77061160/candy-store-problem-solving-coding-challenge">original question's link.</a> Hopefully, over the past 4 months, he's learned to ask better questions based off of the critique I've offered!</p>
 </div>
 <div class="col">
-<img class="img-thumbnail" width="350px" src="../img/KarimQuestion.png" alt="karim's deleted question"/>
+<img class="img-thumbnail" width="400px" src="../img/KarimQuestion.png" alt="karim's deleted question"/>
 </div>
 </div>
 <h2>How could the question have been improved?</h2>

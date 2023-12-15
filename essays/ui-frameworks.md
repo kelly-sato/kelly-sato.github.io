@@ -18,7 +18,7 @@ labels:
 <div class="container">
 <div class="row d-flex justify-content-center align-items-center">
 <div class="col-md-8">
-<h2>Raw HTML and CSS</h2>
+<h1>Raw HTML and CSS</h1>
 <p>
 When I worked with HTML and CSS for the first time in ICS 314, I was underwhelmed by the result. It was a lot of work for a <em>really</em> ugly product.
 </p>
@@ -34,7 +34,7 @@ Maybe it's the color combination and the blue hyperlinks, but it looks like an e
 </div>
 
 <div class="row pt-4">
-<h2>What makes UI Frameworks so useful?</h2>
+<h1>What makes UI Frameworks so useful?</h1>
 
 <p>
 In ICS 314, the UI Framework we used is Bootstrap. Bootstrap has a grid system that allows us to create responsive rows and columns. For my purposes, it has been an absolute game changer, turning what would have been a 20 minute fight with CSS to create columns into a trivial task. It has allowed me to create clean, modern-looking UIs, such as this recreation of <a href="https://independentenergyhawaii.com">Independent Energy</a>'s old About page!
@@ -62,7 +62,7 @@ Though these pre-made classes for stylized elements are great, I have to emphasi
 </div>
 </div>
 <div class="row pt-2">
-<h2>Bootstrap for essays</h2>
+<h1>Bootstrap is for everything</h1>
 <p>
 Before Bootstrap, my technical essays were plainly formatted and lacked pictures. I worried that any styling I attempted would inhibit the flow of the essay. An image would be a monolith amidst a sea of text, ugly and in the way. Now, writing this essay, I knew I wanted to include images that would relate to the text beside it. Since the images are taller than they are wide, I knew that if I didn't do some special formatting, it would be a monolith. So, immediately, I added Bootstrap's script tags and started arranging things to my liking. 
 </p>
