@@ -78,5 +78,6 @@ p a:hover {
 }
 
 .border-white {
-  border: var(--bs-white) 5px solid;
+  border: var(--bs-white);
+  border-width: medium;
 }
