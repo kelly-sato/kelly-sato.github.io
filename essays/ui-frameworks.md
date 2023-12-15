@@ -48,7 +48,7 @@ In ICS 314, the UI Framework we used is Bootstrap. Bootstrap has a grid system t
 </div>
 <div class="col-md-7">
 <p>
-However, Bootstrap is not just the grid system---it's the buttons, the navigation bar, the background images and the embedded video, too. Because Bootstrap is a collection of CSS classes, it makes building a visually appealing UI so much easier.
+However, Bootstrap is not just the grid system—it's the buttons, the navigation bar, the background images and the embedded video, too. Because Bootstrap is a collection of CSS classes, it makes building a visually appealing UI so much easier.
 </p>
 <p>
 For this website recreation assignment, I custom made the buttons, though I really didn't have to. I wanted the button to look accurate to the actual website, though Bootstrap's <code>btn-outline-light</code> class would have made a really nice, similar looking button. No ugly, early 2000's raw HTML and CSS buttons to be found!
