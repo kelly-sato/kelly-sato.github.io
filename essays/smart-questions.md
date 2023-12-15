@@ -25,7 +25,7 @@ That being said, the Internet is full of quite the opposite: instant-gratificati
 </p>
 
 <h1>Downvote, downvote, downvote</h1>
-<div class="row d-flex align-items-center justify-content-center">
+<div class="row d-flex align-items-center justify-content-center pb-2">
 <div class="col-md-7">
 <p>
 Approximately 9 hours ago as of writing, Karim Gaber on <a href="https://stackoverflow.com">Stack Overflow</a> proposed that we have a candy store, and a box of 2*n candies. Flavors are represented by a numeric value and, given an array of different flavors, we must arrange the flavors into matching pairs, e.g. [5, 8, 5, 8, 8, 8] should be divided into three pairs, (5, 5), (8, 8), and (8, 8). Then, the program returns how many pairs there are. 
