@@ -46,12 +46,12 @@ h1, h2, h3 {
   fill: var(--tf-icon-hover);
 }
 
-a {
+p a {
   text-decoration: none;
   color: #506051;
 }
 
-a:hover {
+p a:hover {
   color: #3b463c;
 }
 
