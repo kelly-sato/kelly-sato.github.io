@@ -57,12 +57,16 @@ One such principle was immutability and modularity. <em>Functional programming</
 <p>In high school, I was president of the Rocketry Club, meaning that—besides my duties as a club officer—I was put in charge of running most meetings and managing the competition team. I gained a lot of wisdom on running a team from the president before me, and did my best to continue the practices he introduced. These things included keeping a Scrum board, doing a brief check in every meeting (which were three times a week), and scheduling dates to meet major goals by. Little did I know that this was <em>agile project management</em>.</p>
 <p>Agile project management is a style of project management that focuses on making incremental, responsive progress. The process is done iteratively, rolling out small change after small change until the final product is done. This style of project management is flexible and can adapt to address issues that pop up as they occur.</p>
 <div class="row d-flex align-items-center">
-<div class="col-md-8">
+<div class="col-md-7">
 <p>In ICS 314, we practiced a more software development-centric form of agile project management called <em>issue driven</em> project management. Essentially, each task was called an "issue," and each issue was associated with one assignee and one branch off of the main branch in the repo (i.e. an isolated version of the software that could be freely modified to safely accomplish the task). Each task should theoretically take 3 days to accomplish. This was all organized in what was called a "Milestone," which was actually a <a href="https://github.com">GitHub</a> project. It looks pretty strikingly similar to a Scrum board...</p>
+<p>What was great about the way it was implemented in the course was that we could always see what our teammates were doing. It was an invaluable tool in keeping the project on track with such strict deadlines.</p>
 </div>
-<div class="col-md-4">
-<img src="" alt="m3" width="400px" class="img-thumbnail" />
+<div class="col-md-5">
+<img src="../img/M3Prog.png" alt="m3" width="400px" class="img-thumbnail" />
 </div>
+<p>I can definitely see myself using agile project management in the future, regardless of the field I end of working in. As long as I am working in a group, I believe that agile project management is <em>the</em> tool to get things done. Not only is it all I know project management wise, but it is extremely effective in making it obvious who is lagging behind, who is ahead of schedule, who is assigned to what, what is <em>my</em> next task, etc. Whether it's designing and building a rocket or coding up a whole web app, agile project management is the way to go.</p>
 </div>
+<h1>Moving forward</h1>
+<p>Although I won't be working on anymore software anytime soon, the skills and lessons I learned from ICS 314 have been invaluable. It was my first "engineering" course, and I am extremely grateful for that. The skills that I have learned here will be applicable to my future as in Mechanical Engineering. </p>
 </div>
 </body>
