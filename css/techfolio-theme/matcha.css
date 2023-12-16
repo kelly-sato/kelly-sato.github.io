@@ -81,3 +81,7 @@ p a:hover {
   border: var(--bs-white);
   border-width: medium;
 }
+
+.code-bg {
+  background-color: var(--bs-white);
+}

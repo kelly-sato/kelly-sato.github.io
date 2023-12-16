@@ -71,7 +71,7 @@ On a post from 4 years ago, <a href="https://stackoverflow.com/questions/5533245
 <code>alert(Math.min.apply(Math, arr));</code>
 which returned <code>Infinity</code>, and a Googled solution,
 </p>
-<pre>
+<pre class="code-bg">
 <code>var keys = Object.keys(arr).map(Number).filter(function(a){
     return arr[a];
 }); alert(Math.min.apply(Math, keys));</code>

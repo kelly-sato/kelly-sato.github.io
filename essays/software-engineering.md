@@ -33,7 +33,7 @@ One such principle was immutability and modularity. Functional programming is es
 </div>
 <div class="col-md-8">
 <p style="font-weight: 500">Regular code:</p>
-<pre>
+<pre class="code-bg">
 <code>findMenuItem(ingredient) {
   let returnItem = [];
     for (let i = 0; i < this.menuItem.length; i++) {
@@ -45,7 +45,7 @@ One such principle was immutability and modularity. Functional programming is es
 }</code>
 </pre>
 <p style="font-weight: 500">With functional programming:</p>
-<pre>
+<pre class="code-bg">
 <code>findMenuItem(ingredient) {
   return _.filter(this.menuItem, item => _.contains(item.ingredients, ingredient));
 }</code></pre>
