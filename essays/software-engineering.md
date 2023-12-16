@@ -24,7 +24,7 @@ ICS 314, Software Engineering I, has been my favorite class this semester, not n
 </p>
 <h2>Functional Programming</h2>
 <p>
-One such principle was immutability and modularity. Functional programming is essentially that, but for software development. The idea is to focus on breaking the problem into smaller pieces that do a simple, specific job, then put it all together into a larger program. In other words, the idea is to write smaller functions that can be put together to do a bigger job.
+One such principle was immutability and modularity. <em>Functional programming</em> is essentially that, but for software development. The idea is to focus on breaking the problem into smaller pieces that do a simple, specific job, then put it all together into a larger program. In other words, the idea is to write smaller functions that can be put together to do a bigger job.
 </p>
 <div class="row d-flex align-items-center">
 <div class="col-md-4">
@@ -54,6 +54,15 @@ One such principle was immutability and modularity. Functional programming is es
 <p>My favorite way to explain this similarity is through explaining how a hand mixer works: a power source is connected to a motor which rotates, then the motor which is connected to a corkscrew turns two sets of gears which then turn the mixers, all housed within a ergonomic body. It's a gross simplification, but at the end of the day, the idea is to work in simple components to create something greater.</p>
 </div>
 <h2>Agile Project Management</h2>
-<p></p>
+<p>In high school, I was president of the Rocketry Club, meaning that—besides my duties as a club officer—I was put in charge of running most meetings and managing the competition team. I gained a lot of wisdom on running a team from the president before me, and did my best to continue the practices he introduced. These things included keeping a Scrum board, doing a brief check in every meeting (which were three times a week), and scheduling dates to meet major goals by. Little did I know that this was <em>agile project management</em>.</p>
+<p>Agile project management is a style of project management that focuses on making incremental, responsive progress. The process is done iteratively, rolling out small change after small change until the final product is done. This style of project management is flexible and can adapt to address issues that pop up as they occur.</p>
+<div class="row d-flex align-items-center">
+<div class="col-md-8">
+<p>In ICS 314, we practiced a more software development-centric form of agile project management called <em>issue driven</em> project management. Essentially, each task was called an "issue," and each issue was associated with one assignee and one branch off of the main branch in the repo (i.e. an isolated version of the software that could be freely modified to safely accomplish the task). Each task should theoretically take 3 days to accomplish. This was all organized in what was called a "Milestone," which was actually a <a href="https://github.com">GitHub</a> project. It looks pretty strikingly similar to a Scrum board...</p>
+</div>
+<div class="col-md-4">
+<img src="" alt="m3" width="400px" class="img-thumbnail" />
+</div>
+</div>
 </div>
 </body>

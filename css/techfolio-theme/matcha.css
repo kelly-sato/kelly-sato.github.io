@@ -83,5 +83,5 @@ p a:hover {
 }
 
 code {
-  background-color: var(--bs-white);
+  background-color: rgba(243, 239, 234, 0.7);
 }
