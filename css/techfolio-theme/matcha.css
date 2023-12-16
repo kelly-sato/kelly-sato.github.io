@@ -82,6 +82,6 @@ p a:hover {
   border-width: medium;
 }
 
-.code-bg {
+code {
   background-color: var(--bs-white);
 }

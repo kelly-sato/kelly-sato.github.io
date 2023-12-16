@@ -45,7 +45,7 @@ One such principle was immutability and modularity. Functional programming is es
 }</code>
 </pre>
 <p style="font-weight: 500">With functional programming:</p>
-<pre class="code-bg">
+<pre>
 <code>findMenuItem(ingredient) {
   return _.filter(this.menuItem, item => _.contains(item.ingredients, ingredient));
 }</code></pre>
