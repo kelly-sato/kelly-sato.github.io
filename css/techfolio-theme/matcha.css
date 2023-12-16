@@ -1,0 +1,87 @@
+/* Sakura theme */
+
+/* Use Open Sans as the default font and Roboto for headers. */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --bs-white: #f3efea;
+  --bs-teal: #c8d0ba;
+  --bs-green: #6a806b;
+  --bs-indigo: #363f3b;
+  --bs-cyan: #9bafa1;
+  --bs-font-sans-serif: 'Noto Sans', sans-serif;
+  --tf-pill-bg: var(--bs-cyan);
+  --tf-icon-fill: var(--bs-white);
+  --tf-icon-hover: var(--bs-indigo);
+  --tf-page-bg-color: var(--bs-green);
+  --tf-footer-bg-color: var(--bs-white);
+  --tf-projects-bg-color: var(--bs-teal);
+}
+
+h1, h2, h3 {
+  font-family: 'Crimson Text', serif;
+  color: black;
+}
+
+ h4, h5 {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+}
+
+  /* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--bs-white);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
+p a {
+  text-decoration: none;
+  color: #728046;
+}
+
+p a:hover {
+  color: #afbe6b;
+}
+
+/* Simplify the styling of the bottom of Essay cards. */
+.card-footer {
+  background-color: white;
+  border-top: none;
+}
+
+.btn.btn-outline-dark {
+  --bs-btn-color: var(--bs-indigo);
+  --bs-btn-border-color: var(--bs-indigo);
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: var(--bs-indigo);
+  --bs-btn-hover-border-color: var(--bs-indigo);
+  --bs-btn-focus-shadow-rgb: 33,37,41;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: var(--bs-indigo);
+  --bs-btn-active-border-color: var(--bs-indigo);
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: var(--bs-indigo);
+  --bs-btn-disabled-bg: transparent;
+  --bs-gradient: none
+}
+
+.border-white {
+  border: var(--bs-white);
+  border-width: medium;
+}
+
+code {
+  background-color: rgba(243, 239, 234, 0.7);
+}
