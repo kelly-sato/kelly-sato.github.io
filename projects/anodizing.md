@@ -14,7 +14,7 @@ summary: "Learning the process of anodizing aluminum."
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
 
-<div class="container mt-5">
+<div class="container">
 <div class="row justify-content-center">
 <img src="../img/IMG_8348.png" class="img-thumbnail" alt="Anodized Aluminum Image 1" style="max-width: 400px;">
 </div>
