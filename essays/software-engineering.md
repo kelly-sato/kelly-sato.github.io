@@ -18,7 +18,7 @@ labels:
 <body>
 <div class="container">
 <h1>A world of engineering</h1>
-<p>For a very long time, I have wanted to follow in my father's footsteps and become a Mechanical Engineer. I have always gravitated towards science and math, and even in my passion for art, the projects I did often followed the engineering design process. Although I have been insecure about my ability to be a "good engineer," I believe that my passion for engineering in all of its forms will make me the engineer that I want to be. This will be my last semester as a Computer Science major, but I am grateful for all of the experiences and knowledge I have gained from this temporary path.</p>
+<p>For a very long time, I have wanted to follow in my father's footsteps and become a Mechanical Engineer. I have always gravitated towards science and math, and even in my passion for art, the projects I did often followed the engineering design process. Although I have been insecure about my ability to be a "good engineer," I believe that my passion for engineering in all of its forms will make me the engineer that I want to be. This will be my last semester as a Computer Science major, but I am grateful for all of the experiences and knowledge I have gained from this path.</p>
 <p>
 ICS 314, Software Engineering I, has been my favorite class this semester, not necessarily because of the material we learned, but because of the engineering principles that it incorporated that felt so familiar and nostalgic to me. 
 </p>
@@ -50,8 +50,7 @@ One such principle was immutability and modularity. <em>Functional programming</
   return _.filter(this.menuItem, item => _.contains(item.ingredients, ingredient));
 }</code></pre>
 </div>
-<p>Although there may not be anything exactly equivalent to functional programming outside of the scope of Computer Science, I would like to draw a comparison between Software and Mechanical Engineering in that they both are working with components to create a larger product. Whether that product be a social networking site or fuels infrastructure, it all comes down to components and thinking in these components.</p>
-<p>My favorite way to explain this similarity is through explaining how a hand mixer works: a power source is connected to a motor which rotates, then the motor which is connected to a corkscrew turns two sets of gears which then turn the mixers, all housed within a ergonomic body. It's a gross simplification, but at the end of the day, the idea is to work in simple components to create something greater.</p>
+<p>Although there may not be anything exactly equivalent to functional programming outside of the scope of Computer Science, I would like to draw a comparison between Software and Mechanical Engineering in that they both are working with components to create a larger product. Whether that product be a social networking site or a car, it all comes down to components and thinking in these components.</p>
 </div>
 <h2>Agile Project Management</h2>
 <p>In high school, I was president of the Rocketry Club, meaning that—besides my duties as a club officer—I was put in charge of running most meetings and managing the competition team. I gained a lot of wisdom on running a team from the president before me, and did my best to continue the practices he introduced. These things included keeping a Scrum board, doing a brief check in every meeting (which were three times a week), and scheduling dates to meet major goals by. Little did I know that this was <em>agile project management</em>.</p>
