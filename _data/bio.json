@@ -1,0 +1,59 @@
+{
+  "basics": {
+    "name": "Kelly Sato",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/143356024?s=400&u=91098b68a8441b59c0ecc7a2ed852e4864567ca7&v=4",
+    "email": "ksato7@hawaii.edu",
+    "phone": "808-436-8853",
+    "website": "https://kelly-sato.github.io",
+    "summary": "I am currently majoring in Mechanical Engineering and minoring in Computer Science at U.H. Manoa. I expect to graduate in the Fall of 2026.",
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "kelly-sato", "url": "http://github.com/kelly-sato" },
+      { "network": "linkedin", "username": "kelly-sato", "url": "https://www.linkedin.com/in/kelly-sato-718878224/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Amateur Rocketry" },
+    { "name": "AutoCAD" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java", "Javascript", "C", "C++", "HTML", "CSS", "Bootstrap" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows OS", "Unix" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Mechanical Engineering (expected Fall, 2026)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present"
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "The Seal of Biliteracy",
+      "date": "2021",
+      "awarder": "State of Hawaii",
+      "summary": "An award given to high school seniors who have attained proficiency in two or more languages (English and Japanese)."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
