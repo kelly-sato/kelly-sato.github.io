@@ -18,6 +18,8 @@ summary: "An SNS for prospective, current, and former study abroad students."
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
 
 <div class="container">
+<p>Update: the website has been taken down due to hosting expenses.</p>
+
 <h1>Overview</h1>
 <p>
 For ICS 314, Software Engineering I, our final project was to create a web application with our group to solve a "problem" that we have as UH Manoa Students. We used the Meteor framework and MongoDB for our database. My wonderful teammates were <a href="https://richardbzar.github.io">Richard Baltazar</a>, <a href="https://laurenjc.github.io">Lauren Clayton</a>, <a href="https://josiahkila.github.io">Josiah Kila</a>, and <a href="https://kaylamarietorres.github.io">Kayla-Marie Torres</a>.</p>
