@@ -30,11 +30,11 @@ I was tasked to use AutoCAD and Inventor to design the rocket's nose cone, fins,
 </p>
 
 <p>
-Ultimately, we were unable to qualify as we were unable to get an NAR flight observer to observe our rocket's flight.
+Ultimately, we were unable to qualify as we were unable to get an NAR flight observer to come to Oahu to observe our rocket's qualification flight.
 </p>
 
 <p>
-Overall, it was a good experience for designing an amateur rocket with custom parts, and I was able to develop proficiency in Inventor and AutoCAD, and gained experience in mechanical drafting. It was also my first time working in a team for an extended period of time. I learned a lot about leadership and project management, and since I served as secretary that year, I was in charge of updating the Scrum board and writing short reports on what everyone accomplished each meeting.
+Overall, it was a good experience for designing an amateur rocket with custom parts, and I was able to develop proficiency in Inventor and AutoCAD. It was also my first time working in a team for an extended period of time. I learned a lot about leadership and project management, and since I served as secretary that year, I was in charge of updating the Scrum board and writing short reports on what everyone accomplished each meeting.
 </p>
 
 <p>
